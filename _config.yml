@@ -45,11 +45,9 @@ url: "" # the base hostname & protocol for your site
 
 # Social settings
 facebook_url:
-<<<<<<< HEAD
-github_url:
-=======
+
 github_url:https://wanyouyinli.github.io/mobo.github.io/
->>>>>>> 6f48cd4ed77a2faf121da579eda075c98dcf0895
+
 googleplus_url:
 instagram_url:
 linkedin_url:
@@ -63,7 +61,4 @@ google_analytics:
 # The following settings are NECESSARY for the Prologue theme to run:
 theme: jekyll-theme-prologue
 collections: [sections]
-<<<<<<< HEAD
-=======
 
->>>>>>> 6f48cd4ed77a2faf121da579eda075c98dcf0895
